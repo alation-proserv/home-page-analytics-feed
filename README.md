@@ -1,7 +1,7 @@
 # home-page-analytics-feed
 Sample Script to update an article with results from analytics queries
 
-##Prerequisites
+## Prerequisites
 1. Create a Rich Text Custom Field
 2. Create a Custom Article Template called "Homepage Feed"
 3. Create an article with the new template
