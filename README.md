@@ -18,8 +18,8 @@ refresh_token = HyWltN79F-ALuzZ_iKT3fJTmFVe8nEjFPPbn-khFVy41kSKhSkDuyh989hpItGAq
 user_id = 4 \ 
 
 [article]
-template_id = 0 \  
-article_template = Homepage Feed \ 
-custom_article = What's happening in Alation? \ 
+template_id = 0 
+article_template = Homepage Feed 
+custom_article = What's happening in Alation? 
 
 
